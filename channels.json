@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "name": "Music",
+      "channels": [
+        {
+          "name": "9xm",
+          "logo": "https://i.postimg.cc/Wb8VmBjp/9xm.jpg",
+          "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8"
+        }
+      ]
+    }
+  ]
+}
