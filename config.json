@@ -1,0 +1,6 @@
+{
+  "app_enabled": true,
+  "message": "Welcome to T Play",
+  "channels_url": "https://raw.githubusercontent.com/tplaylive/iptv-remote-config/main/channels.json",
+  "force_update": false
+}
